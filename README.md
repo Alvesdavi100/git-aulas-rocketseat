@@ -1,2 +1,2 @@
 # git-aulas-rocketseat
-uma lista de frases
+titulo do meu projeto
